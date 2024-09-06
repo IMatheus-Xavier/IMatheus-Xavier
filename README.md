@@ -9,6 +9,11 @@ Sou um desenvolvedor Full Stack apaixonado por tecnologia e estudante de Engenha
 - **Banco de Dados:** Google Firestore, MySQL ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 - **Ferramentas de Desenvolvimento:** Git, GitHub, Figma, Maven ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 
+  ## 📊 Estatísticas do GitHub
+
+![IMatheus-Xavier's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IMatheus-Xavier&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IMatheus-Xavier&layout=compact&theme=radical)
+
+
 ## 🚀 Projetos em Destaque
 
 - [**HelpTekProject**](link-do-repositorio): Sistema de gerenciamento de documentos utilizando Java e Firestore.
